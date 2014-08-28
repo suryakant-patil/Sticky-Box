@@ -7,4 +7,7 @@ This code makes it possible to have a fixed position element that is relative to
 
 Not using CSS position absolute and fixed So Responsive layout you can make any element floatable. You can also Stick element in between boundaries.
 
-http://jsfiddle.net/Deepshri/L3vqc87s/11/embedded/result/
+DEMO: http://jsfiddle.net/Deepshri/L3vqc87s/11/embedded/result/
+
+https://plus.google.com/104030471488981304337
+https://twitter.com/suryakant2321
