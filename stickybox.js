@@ -32,4 +32,4 @@ var isMoz = $.browser.mozilla;
   }
   window.addEventListener('scroll', function () {sticky();}, false);
 
-  $(function(){sticky();});
+  sticky();
