@@ -10,4 +10,5 @@ Not using CSS position absolute and fixed So Responsive layout you can make any 
 DEMO: http://jsfiddle.net/Deepshri/L3vqc87s/11/embedded/result/
 
 https://plus.google.com/104030471488981304337
+
 https://twitter.com/suryakant2321
